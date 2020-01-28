@@ -1,5 +1,4 @@
 def draw_tree():
-    #print("tree not found")
     draw_leaves()
     draw_trunk()
 
